@@ -5,12 +5,8 @@
 @layopt layer=message0 visible=false
 
 @clearstack
-@bg storage ="room.jpg" time=100
+@bg storage ="title_yua01.jpg" time=100
 @wait time = 200
-
-; タイトルの画像は作らないとダメ
-[image layer=1 storage=2045.png visible=true top=-260 left=-290]
-[image layer=1 storage=yua01_500.png visible=true top=100 left=350]
 
 *start
 
